@@ -4,7 +4,16 @@ _NOTE: The suggestions made in this document are just one particular way of doin
 
 _NOTE: any `<>` brackets in code snippets indicates you need to replace it with whatever specific thing that goes there; `<>` should not be included in your code or terminal command_
 
-_NOTE: info for forked repos to be included later
+_NOTE: info for forked repos to be included later_
+
+<br>
+
+## Table of Contents
+- [A. Cloning project](#a-cloning-project)
+- [B. Working on Project](#b-working-on-project)
+- [C. Reviewing Pull Requests](#c-reviewing-pull-requests)
+
+<br>
 
 ## A. Cloning project
 
@@ -22,7 +31,9 @@ _NOTE: info for forked repos to be included later
 
 5. In your terminal, navigate to the newly created directory and enter in `git status` to confirm project was correctly cloned
 
-## B. Working on project
+<br>
+
+## B. Working on Project
 
 _NOTE: all significant code contributions or changes must be associated with a git issue or project board item_
 
@@ -75,6 +86,8 @@ _NOTE: all significant code contributions or changes must be associated with a g
 ![image](./assets/github-5-create_pr.png)
 </details>
 12. Wait for review & feedback
+
+<br>
 
 ## C. Reviewing Pull Requests
 <details>
